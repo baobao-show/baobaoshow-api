@@ -84,7 +84,7 @@
 
         <project_version>0.0.1-SNAPSHOT</project_version>
 
-        <mysql_version>8.0.15</mysql_version>
+        <mysql_version>8.0.28</mysql_version>
         <jedis_version>2.9.0</jedis_version>
         <springboot_version>2.1.4.RELEASE</springboot_version>
         <commons-pool2_version>2.6.1</commons-pool2_version>
